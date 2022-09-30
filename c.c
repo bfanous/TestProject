@@ -26,9 +26,4 @@ float strToFloat(char * str)
         r = r+ (float)rem/(pow(10,count++))
     }
 
-
-
-
-
-
 }
